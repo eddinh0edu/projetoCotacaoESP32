@@ -1,4 +1,4 @@
-# PROJETO COTAÇÃO NO ARDUI
+# PROJETO COTAÇÃO NO ARDUINO
 
 Esse projeto consiste em um código Arduino/c++ utilizado no Wokwi com a placa ESP32. O código:
 - `Conecta a placa à Internet via WiFi`
